@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 # Studying
 ![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-0696D7?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD.svg?&style=for-the-badge&logoColor=white)
+![GCN](https://img.shields.io/badge/GCN-2ECC71.svg?&style=for-the-badge&logoColor=white)
 <!---
 ![LangChain](https://img.shields.io/badge/LangChain-019934.svg?&style=for-the-badge&logo=LangChain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-019934.svg?&style=for-the-badge&logoColor=white)
