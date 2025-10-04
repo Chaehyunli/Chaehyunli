@@ -20,14 +20,12 @@ You can click the Preview link to take a look at your changes.
 ![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-0696D7?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD.svg?&style=for-the-badge&logoColor=white)
 ![GCN](https://img.shields.io/badge/GCN-2ECC71.svg?&style=for-the-badge&logoColor=white)
-<!---
 ![LangChain](https://img.shields.io/badge/LangChain-019934.svg?&style=for-the-badge&logo=LangChain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-019934.svg?&style=for-the-badge&logoColor=white)
 ![ollama](https://img.shields.io/badge/ollama-000000.svg?&style=for-the-badge&logo=ollama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4A90E2.svg?&style=for-the-badge&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?&style=for-the-badge&logo=Grafana&logoColor=white)
---->
 
 # 💪Skills
 ### Platforms & Languages
