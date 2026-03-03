@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 #  ❗ CHAE HYUN LIM ❗ 
 
-![Chaehyunli's GitHub stats](https://github-readme-stats-one-seven.vercel.app/api?username=Chaehyunli&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-one-seven.vercel.app/api/top-langs/?username=Chaehyunli&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Chaehyunli's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Chaehyunli&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chaehyunli&layout=compact&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaehyun010104)](https://solved.ac/chaehyun010104/)
 
 # Studying
