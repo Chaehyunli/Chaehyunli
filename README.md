@@ -64,6 +64,28 @@ You can click the Preview link to take a look at your changes.
 | 2021.03 - | 명지대학교 컴퓨터공학과 | 재학 |
 | 2025.08 - 2025.09 | CURSOR AI 경진대회 | PETNER(장려상) |
 
+# Projects
+
+### 1. Searchive (개인 프로젝트)
+- **기간:** 2025.10 ~ 2025.12
+- **설명:** 개인 맞춤형 아카이빙 서비스 'Searchive' 개발
+- **Links:** - [🔗 Project Detail](https://github.com/orgs/Searchive-Project/repositories) (GitHub Organization)
+
+### 2. PETNER (팀 프로젝트)
+- **기간:** 2025.08 ~ 2025.10
+- **설명:** 반려동물 케어 및 커뮤니티 플랫폼 'PETNER'
+- **Links:** - [🔗 Project Detail](https://github.com/orgs/Dangdaengdan/repositories) (GitHub Organization)
+
+### 3. 노소공 (팀 프로젝트)
+- **기간:** 2025.03 ~ 2025.10
+- **설명:** 노답삼형제가 쏘아올린 공 (no-so-gong)
+- **Links:** - [🔗 Project Detail](https://github.com/orgs/no-so-gong/repositories) (GitHub Organization)
+
+### 4. 동아리모아 (팀 프로젝트)
+- **기간:** 2025.01 ~ 2025.03
+- **설명:** 교내/외 동아리 정보 통합 플랫폼 '동아리 모아'
+- **Links:** - [🔗 Project Detail](https://github.com/Chaehyunli/TeamProject2025) (GitHub Repository)
+
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaehyun010104@gmail.com)](mailto:chaehyun010104@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ch010106@naver.com)](mailto:ch010106@naver.com)
