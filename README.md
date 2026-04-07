@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 ![RAG](https://img.shields.io/badge/RAG-4A90E2.svg?&style=for-the-badge&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571.svg?&style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?&style=for-the-badge&logo=Grafana&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=MinIO&logoColor=white)
 
 # 💪Skills
 ### Platforms & Languages
