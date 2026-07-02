@@ -16,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaehyun010104)](https://solved.ac/chaehyun010104/)
 
 # Studying
+![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-Agent_Framework-E94560?style=for-the-badge&logo=pydantic&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI_Agent-Autonomous_System-5856D6?style=for-the-badge&logo=openai&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-0696D7?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD.svg?&style=for-the-badge&logoColor=white)
@@ -51,6 +53,7 @@ You can click the Preview link to take a look at your changes.
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black)
+
 ### Tools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
@@ -58,31 +61,38 @@ You can click the Preview link to take a look at your changes.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=android%20studio&logoColor=white)
 
-# Education
+# Education & Award
 
 | 기간 | 기관/활동 | 비고 |
 | :---: | :--- | :--- |
-| 2021.03 - | 명지대학교 컴퓨터공학과 | 재학 |
+| 2026.07 - 2026.12 | SKALA 4기 | 이수 예정 |
+| 2021.03 - 2026.08 | 명지대학교 컴퓨터공학과 | 졸업 |
+| 2026.03 - 2025.08 | CapstoneDesign 전시회 | Masil(은상) |
 | 2025.08 - 2025.09 | CURSOR AI 경진대회 | PETNER(장려상) |
 
 # Projects
 
-### 1. Searchive (개인 프로젝트)
+### 1. Masil (팀 프로젝트)
+- **기간:** 2026.03 ~ 2026.08(예정)
+- **설명:** AI AGENT를 활용한 LLM 기반 여행 일정 비서 앱 'Masil' 개발 
+- **Links:** - [🔗 Project Detail](https://github.com/orgs/Masil2026/repositories) (GitHub Organization)
+
+### 2. Searchive (개인 프로젝트)
 - **기간:** 2025.10 ~ 2025.12
 - **설명:** 개인 맞춤형 아카이빙 서비스 'Searchive' 개발
 - **Links:** - [🔗 Project Detail](https://github.com/orgs/Searchive-Project/repositories) (GitHub Organization)
 
-### 2. PETNER (팀 프로젝트)
+### 3. PETNER (팀 프로젝트)
 - **기간:** 2025.08 ~ 2025.10
 - **설명:** 반려동물 케어 및 커뮤니티 플랫폼 'PETNER'
 - **Links:** - [🔗 Project Detail](https://github.com/orgs/Dangdaengdan/repositories) (GitHub Organization)
 
-### 3. 노소공 (팀 프로젝트)
+### 4. 노소공 (팀 프로젝트)
 - **기간:** 2025.03 ~ 2025.10
 - **설명:** 노답삼형제가 쏘아올린 공 (no-so-gong)
 - **Links:** - [🔗 Project Detail](https://github.com/orgs/no-so-gong/repositories) (GitHub Organization)
 
-### 4. 동아리모아 (팀 프로젝트)
+### 5. 동아리모아 (팀 프로젝트)
 - **기간:** 2025.01 ~ 2025.03
 - **설명:** 교내/외 동아리 정보 통합 플랫폼 '동아리 모아'
 - **Links:** - [🔗 Project Detail](https://github.com/Chaehyunli/TeamProject2025) (GitHub Repository)
