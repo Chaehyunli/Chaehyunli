@@ -70,6 +70,12 @@ You can click the Preview link to take a look at your changes.
 | 2026.03 - 2025.08 | CapstoneDesign 전시회 | Masil(은상) |
 | 2025.08 - 2025.09 | CURSOR AI 경진대회 | PETNER(장려상) |
 
+# Career
+
+| 기간 | 기관/활동 | 비고 |
+| :---: | :--- | :--- |
+| 2026.01 - 2026.02 | 프람트테크놀로지 | 개발 인턴 |
+
 # Projects
 
 ### 1. Masil (팀 프로젝트)
