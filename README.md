@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 
 | 기간 | 기관/활동 | 비고 |
 | :---: | :--- | :--- |
-| 2026.07 - 2026.12 | SKALA 4기 | 이수 예정 |
+| 2026.07 - 2026.12 | SKALA 4기 | 이수 중 |
 | 2021.03 - 2026.08 | 명지대학교 컴퓨터공학과 | 졸업 |
 | 2026.03 - 2025.08 | CapstoneDesign 전시회 | Masil(은상) |
 | 2025.08 - 2025.09 | CURSOR AI 경진대회 | PETNER(장려상) |
