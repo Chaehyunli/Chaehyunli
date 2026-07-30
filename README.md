@@ -15,12 +15,13 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chaehyunli&layout=compact&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaehyun010104)](https://solved.ac/chaehyun010104/)
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Chaehyunli&utm_content=farm">
-<img
+<!-- <img
   src="https://render.gitanimals.org/farms/Chaehyunli"
   width="600"
   height="300"
 />
 </a>
+-->
 
 # Studying
 ![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-Agent_Framework-E94560?style=for-the-badge&logo=pydantic&logoColor=white)
