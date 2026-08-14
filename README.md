@@ -90,6 +90,7 @@ You can click the Preview link to take a look at your changes.
 - **기간:** 2026.08 ~ 2026.08
 - **설명:** LLM을 활용한 사용자의 취향, 목적, 인원, 예산을 고려한 일정 생성 웹 '모두약속' 개발
 - **Links:** - [🔗 Project Detail](https://github.com/Chaehyunli/moduyaksok)
+- **배포 URL:** - [🔗 Project URL](https://moduyaksok.vercel.app/)
 
 ### 2. Masil (팀 프로젝트)
 - **기간:** 2026.03 ~ 2026.08(예정)
