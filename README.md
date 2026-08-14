@@ -86,27 +86,32 @@ You can click the Preview link to take a look at your changes.
 
 # Projects
 
-### 1. Masil (팀 프로젝트)
+### 1. 모두약속 (개인 프로젝트)
+- **기간:** 2026.08 ~ 2026.08
+- **설명:** LLM을 활용한 사용자의 취향, 목적, 인원, 예산을 고려한 일정 생성 웹 '모두약속' 개발
+- **Links:** - [🔗 Project Detail](https://github.com/Chaehyunli/moduyaksok)
+
+### 2. Masil (팀 프로젝트)
 - **기간:** 2026.03 ~ 2026.08(예정)
 - **설명:** AI AGENT를 활용한 LLM 기반 여행 일정 비서 앱 'Masil' 개발 
 - **Links:** - [🔗 Project Detail](https://github.com/orgs/Masil2026/repositories) (GitHub Organization)
 
-### 2. Searchive (개인 프로젝트)
+### 3. Searchive (개인 프로젝트)
 - **기간:** 2025.10 ~ 2025.12
 - **설명:** 개인 맞춤형 아카이빙 서비스 'Searchive' 개발
 - **Links:** - [🔗 Project Detail](https://github.com/orgs/Searchive-Project/repositories) (GitHub Organization)
 
-### 3. PETNER (팀 프로젝트)
+### 4. PETNER (팀 프로젝트)
 - **기간:** 2025.08 ~ 2025.10
 - **설명:** 반려동물 케어 및 커뮤니티 플랫폼 'PETNER'
 - **Links:** - [🔗 Project Detail](https://github.com/orgs/Dangdaengdan/repositories) (GitHub Organization)
 
-### 4. 노소공 (팀 프로젝트)
+### 5. 노소공 (팀 프로젝트)
 - **기간:** 2025.03 ~ 2025.10
 - **설명:** 노답삼형제가 쏘아올린 공 (no-so-gong)
 - **Links:** - [🔗 Project Detail](https://github.com/orgs/no-so-gong/repositories) (GitHub Organization)
 
-### 5. 동아리모아 (팀 프로젝트)
+### 6. 동아리모아 (팀 프로젝트)
 - **기간:** 2025.01 ~ 2025.03
 - **설명:** 교내/외 동아리 정보 통합 플랫폼 '동아리 모아'
 - **Links:** - [🔗 Project Detail](https://github.com/Chaehyunli/TeamProject2025) (GitHub Repository)
