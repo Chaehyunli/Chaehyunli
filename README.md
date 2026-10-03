@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 | :---: | :--- | :--- |
 | 2026.07 - 2026.12 | SKALA 4기 | 이수 중 |
 | 2021.03 - 2026.08 | 명지대학교 컴퓨터공학과 | 졸업 |
-| 2026.03 - 2025.08 | CapstoneDesign 전시회 | Masil(은상) |
+| 2026.03 - 2026.08 | CapstoneDesign 전시회 | Masil(은상) |
 | 2025.08 - 2025.09 | CURSOR AI 경진대회 | PETNER(장려상) |
 
 # Career
@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 - **배포 URL:** - [🔗 https://moduyaksok.vercel.app/](https://moduyaksok.vercel.app/)
 
 ### 2. Masil (팀 프로젝트)
-- **기간:** 2026.03 ~ 2026.08(예정)
+- **기간:** 2026.03 ~ 2026.09
 - **설명:** AI AGENT를 활용한 LLM 기반 여행 일정 비서 앱 'Masil' 개발 
 - **Links:** - [🔗 https://github.com/orgs/Masil2026/repositories](https://github.com/orgs/Masil2026/repositories) (GitHub Organization)
 
