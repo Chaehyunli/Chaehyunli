@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Chaehyunlim&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 16, Total Commits  (last year) : 2183, Total PRs: 108, Total Issues: 92, Contributed to (last year): 32</desc>
+        <desc id="descId">Total Stars Earned: 16, Total Commits  (last year) : 2185, Total PRs: 108, Total Issues: 92, Contributed to (last year): 32</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 94.23254084553007;
+        stroke-dashoffset: 94.2319960838236;
       }
     }
   
